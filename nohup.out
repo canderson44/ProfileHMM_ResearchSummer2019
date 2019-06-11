@@ -1,0 +1,18 @@
+[I 10:24:26.997 NotebookApp] JupyterLab extension loaded from /anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 10:24:26.998 NotebookApp] JupyterLab application directory is /anaconda3/share/jupyter/lab
+[I 10:24:27.006 NotebookApp] Serving notebooks from local directory: /Users/catherineanderson/Documents/Research_Summer2019/ProfileHMM
+[I 10:24:27.006 NotebookApp] The Jupyter Notebook is running at:
+[I 10:24:27.006 NotebookApp] http://localhost:8888/?token=eb797160e0916a29ff784ce54899ec34fb6107b0809ccceb
+[I 10:24:27.006 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:24:27.017 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=eb797160e0916a29ff784ce54899ec34fb6107b0809ccceb
+[I 10:24:28.004 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 10:24:29.582 NotebookApp] 404 GET /nbextensions/canopy/catalyst.js?v=20190611102426 (::1) 13.56ms referer=http://localhost:8888/notebooks/CCS_Filter.ipynb
+[W 10:24:29.586 NotebookApp] 404 GET /nbextensions/canopy/training/exercise.js?v=20190611102426 (::1) 1.85ms referer=http://localhost:8888/notebooks/CCS_Filter.ipynb
+[I 10:24:30.369 NotebookApp] Kernel started: 471c8bfe-2db1-4a88-800f-d0772c26457b
+[W 10:24:30.972 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190611102426 (::1) 5.28ms referer=http://localhost:8888/notebooks/CCS_Filter.ipynb
+[I 10:24:31.194 NotebookApp] Adapting to protocol v5.1 for kernel 471c8bfe-2db1-4a88-800f-d0772c26457b
+[I 13:00:00.487 NotebookApp] Starting buffering for 471c8bfe-2db1-4a88-800f-d0772c26457b:61382360bcd6445c9b28dfcd5eb7d8e4
