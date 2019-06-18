@@ -128,3 +128,127 @@
 [I 18:11:38.811 NotebookApp] Saving file at /Annotate_CCS.ipynb
 [I 18:12:58.670 NotebookApp] Saving file at /Annotate_CCS.ipynb
 [I 18:14:58.676 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[W 23:12:29.350 NotebookApp] WebSocket ping timeout after 8369988 ms.
+[I 23:12:30.383 NotebookApp] Starting buffering for a5708ca3-b238-4d2a-8563-7e487cebe4b9:eae6f69a2ebe4b678eaf060a272bab0f
+[I 10:06:03.290 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 10:18:42.972 NotebookApp] Saving file at /ProfileHMM_scriptsForServer/CCS_Filter.py
+[I 10:19:53.480 NotebookApp] Saving file at /ProfileHMM_scriptsForServer/CCS_Filter.py
+[I 21:43:00.594 NotebookApp] Starting buffering for a29e195b-5998-41c3-9b4e-49ebd6262dbd:9c8bddc19677472885d0f47323bd645e
+[I 10:04:06.013 NotebookApp] The port 8888 is already in use, trying another port.
+[I 10:04:06.081 NotebookApp] JupyterLab extension loaded from /anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 10:04:06.081 NotebookApp] JupyterLab application directory is /anaconda3/share/jupyter/lab
+[I 10:04:06.088 NotebookApp] Serving notebooks from local directory: /Users/catherineanderson/Documents/Research_Summer2019/ProfileHMM
+[I 10:04:06.088 NotebookApp] The Jupyter Notebook is running at:
+[I 10:04:06.088 NotebookApp] http://localhost:8889/?token=80b922bd9fa04f69673135d6e826ebda6a7364e10f55b4c3
+[I 10:04:06.088 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:04:06.117 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=80b922bd9fa04f69673135d6e826ebda6a7364e10f55b4c3
+[I 10:04:07.266 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 10:04:07.684 NotebookApp] 404 GET /apple-touch-icon-precomposed.png (::1) 17.95ms referer=None
+[W 10:04:07.816 NotebookApp] 404 GET /apple-touch-icon.png (::1) 7.83ms referer=None
+[I 10:04:54.264 NotebookApp] Kernel started: 32f12800-13b7-452a-a28b-d0f8a5b29b0f
+[W 10:04:54.372 NotebookApp] 404 GET /nbextensions/canopy/catalyst.js?v=20190618100405 (::1) 4.91ms referer=http://localhost:8889/notebooks/Annotate_CCS.ipynb
+[W 10:04:54.383 NotebookApp] 404 GET /nbextensions/canopy/training/exercise.js?v=20190618100405 (::1) 3.10ms referer=http://localhost:8889/notebooks/Annotate_CCS.ipynb
+[W 10:04:54.702 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190618100405 (::1) 3.48ms referer=http://localhost:8889/notebooks/Annotate_CCS.ipynb
+[I 10:04:55.540 NotebookApp] Adapting to protocol v5.1 for kernel 32f12800-13b7-452a-a28b-d0f8a5b29b0f
+[I 10:04:56.922 NotebookApp] Kernel started: b81b9eff-f148-414d-b424-d2a065f0b9de
+[W 10:04:57.055 NotebookApp] 404 GET /nbextensions/canopy/catalyst.js?v=20190618100405 (::1) 3.55ms referer=http://localhost:8889/notebooks/CCS_Filter.ipynb
+[W 10:04:57.059 NotebookApp] 404 GET /nbextensions/canopy/training/exercise.js?v=20190618100405 (::1) 2.86ms referer=http://localhost:8889/notebooks/CCS_Filter.ipynb
+[W 10:04:57.419 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190618100405 (::1) 3.02ms referer=http://localhost:8889/notebooks/CCS_Filter.ipynb
+[I 10:04:57.737 NotebookApp] Adapting to protocol v5.1 for kernel b81b9eff-f148-414d-b424-d2a065f0b9de
+[I 10:06:54.228 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 10:08:54.216 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 10:32:25.293 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 10:34:25.299 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 10:36:25.301 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 10:38:25.306 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 10:40:25.311 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 10:42:25.315 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 10:43:12.195 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 10:44:25.320 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 10:46:25.324 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 10:48:25.328 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 10:50:25.334 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 10:52:25.339 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 10:54:25.340 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 10:56:25.347 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 10:58:25.352 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:11:33.583 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:13:33.587 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:15:33.592 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:17:33.596 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:19:33.600 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:21:33.604 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:23:33.608 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:25:33.614 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:28:59.262 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:30:59.264 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:34:59.275 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:36:59.278 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:37:19.866 NotebookApp] Saving file at /CCS_Filter.ipynb
+[I 11:38:59.285 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:39:01.984 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:40:59.289 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:42:59.291 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:44:59.299 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:46:59.302 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:48:59.313 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:50:59.335 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:52:59.340 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:54:59.346 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:56:59.344 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:58:59.349 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:00:59.353 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:02:59.355 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:04:59.361 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:06:59.372 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:08:59.373 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:10:59.379 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:12:59.383 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:18:59.401 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:20:59.405 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:22:59.409 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:29:02.972 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:31:02.975 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:33:02.979 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:35:02.984 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:37:08.514 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:39:08.505 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:41:08.509 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:43:08.528 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:45:08.526 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:47:08.529 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:48:19.979 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:49:08.534 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:51:08.542 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:53:08.544 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:55:08.549 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:57:08.551 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 12:59:08.557 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:01:08.560 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:03:08.585 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:05:08.586 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:07:08.592 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:09:08.597 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:11:08.600 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:13:08.621 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:15:08.615 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:15:59.468 NotebookApp] Saving file at /CCS_Filter.ipynb
+[I 13:17:08.615 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:17:59.473 NotebookApp] Saving file at /CCS_Filter.ipynb
+[I 13:19:08.622 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:19:48.284 NotebookApp] Saving file at /CCS_Filter.ipynb
+[I 13:19:56.199 NotebookApp] Saving file at /CCS_Filter.ipynb
+[I 13:21:08.632 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:23:08.634 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:25:08.658 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:27:08.655 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:29:08.662 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:31:08.665 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:33:08.674 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:33:32.037 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 13:33:56.924 NotebookApp] Saving file at /CCS_Filter.ipynb
+[I 13:33:59.500 NotebookApp] Saving file at /Annotate_CCS.ipynb
