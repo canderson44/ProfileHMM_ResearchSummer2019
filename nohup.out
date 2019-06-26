@@ -306,3 +306,36 @@
 [I 15:03:45.648 NotebookApp] Saving file at /CCS_Filter.ipynb
 [I 15:05:29.951 NotebookApp] Saving file at /CCS_Filter.ipynb
 [I 15:05:31.407 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 15:54:28.016 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 15:56:28.018 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 16:00:28.032 NotebookApp] Saving file at /Annotate_CCS.ipynb
+[I 11:41:02.026 NotebookApp] Starting buffering for 32f12800-13b7-452a-a28b-d0f8a5b29b0f:77bcf907d8b344049dd33407831c5182
+[I 11:41:02.049 NotebookApp] Starting buffering for b81b9eff-f148-414d-b424-d2a065f0b9de:22c7ff6c1e25459c84d5d336dfeadb94
+[C 11:41:25.114 NotebookApp] received signal 15, stopping
+[I 11:41:25.120 NotebookApp] Shutting down 2 kernels
+[C 11:41:25.125 NotebookApp] received signal 15, stopping
+[I 11:41:25.138 NotebookApp] Shutting down 2 kernels
+[I 11:41:25.665 NotebookApp] Kernel shutdown: a29e195b-5998-41c3-9b4e-49ebd6262dbd
+[I 11:41:25.667 NotebookApp] Kernel shutdown: a5708ca3-b238-4d2a-8563-7e487cebe4b9
+[I 11:41:25.747 NotebookApp] Kernel shutdown: 32f12800-13b7-452a-a28b-d0f8a5b29b0f
+[I 11:41:25.748 NotebookApp] Kernel shutdown: b81b9eff-f148-414d-b424-d2a065f0b9de
+[I 17:13:17.040 NotebookApp] JupyterLab extension loaded from /anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 17:13:17.041 NotebookApp] JupyterLab application directory is /anaconda3/share/jupyter/lab
+[I 17:13:17.049 NotebookApp] Serving notebooks from local directory: /Users/catherineanderson/Documents/Research_Summer2019/ProfileHMM
+[I 17:13:17.049 NotebookApp] The Jupyter Notebook is running at:
+[I 17:13:17.049 NotebookApp] http://localhost:8888/?token=adf1dd20f3f7aa2e1637ea612175955e5a9712ce2692f92d
+[I 17:13:17.049 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:13:17.087 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=adf1dd20f3f7aa2e1637ea612175955e5a9712ce2692f92d
+[I 17:13:18.004 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 17:13:18.561 NotebookApp] 404 GET /apple-touch-icon-precomposed.png (::1) 11.76ms referer=None
+[W 17:13:18.662 NotebookApp] 404 GET /apple-touch-icon.png (::1) 3.27ms referer=None
+[I 17:13:25.178 NotebookApp] Kernel started: 957515d4-3d57-424f-a9ec-604a24cf5619
+[W 17:13:25.196 NotebookApp] 404 GET /nbextensions/canopy/catalyst.js?v=20190622171316 (::1) 2.60ms referer=http://localhost:8888/notebooks/Annotate_CCS.ipynb
+[W 17:13:25.203 NotebookApp] 404 GET /nbextensions/canopy/training/exercise.js?v=20190622171316 (::1) 4.34ms referer=http://localhost:8888/notebooks/Annotate_CCS.ipynb
+[W 17:13:25.789 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190622171316 (::1) 2.79ms referer=http://localhost:8888/notebooks/Annotate_CCS.ipynb
+[I 17:13:26.371 NotebookApp] Adapting to protocol v5.1 for kernel 957515d4-3d57-424f-a9ec-604a24cf5619
+[I 12:10:55.030 NotebookApp] Starting buffering for 957515d4-3d57-424f-a9ec-604a24cf5619:72f547b7f50442aab9562b0d7887bb48
