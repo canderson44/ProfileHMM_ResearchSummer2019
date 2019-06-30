@@ -339,3 +339,4 @@
 [W 17:13:25.789 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190622171316 (::1) 2.79ms referer=http://localhost:8888/notebooks/Annotate_CCS.ipynb
 [I 17:13:26.371 NotebookApp] Adapting to protocol v5.1 for kernel 957515d4-3d57-424f-a9ec-604a24cf5619
 [I 12:10:55.030 NotebookApp] Starting buffering for 957515d4-3d57-424f-a9ec-604a24cf5619:72f547b7f50442aab9562b0d7887bb48
+[I 11:22:52.423 NotebookApp] 302 GET /tree (::1) 71.05ms
