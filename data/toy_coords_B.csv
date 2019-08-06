@@ -1,0 +1,10 @@
+ZMW,region,start,stop,y
+0,CCS,1,1000,20
+0,Three_Barcode_Reverse,1,45,10
+0,Adapter_Reverse,50,75,5
+0,Five_Barcode_Reverse,928,999,15
+4,CCS,1,1000,20
+4,Five_Barcode,500,575,15
+4,Three_Barcode,900,925,10
+4,Adapter,1,45,5
+4,Adapter,950,995,5

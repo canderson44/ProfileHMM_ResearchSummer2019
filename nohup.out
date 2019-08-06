@@ -340,3 +340,6 @@
 [I 17:13:26.371 NotebookApp] Adapting to protocol v5.1 for kernel 957515d4-3d57-424f-a9ec-604a24cf5619
 [I 12:10:55.030 NotebookApp] Starting buffering for 957515d4-3d57-424f-a9ec-604a24cf5619:72f547b7f50442aab9562b0d7887bb48
 [I 11:22:52.423 NotebookApp] 302 GET /tree (::1) 71.05ms
+[C 16:57:28.849 NotebookApp] received signal 15, stopping
+[I 16:57:28.918 NotebookApp] Shutting down 1 kernel
+[I 16:57:29.464 NotebookApp] Kernel shutdown: 957515d4-3d57-424f-a9ec-604a24cf5619
